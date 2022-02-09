@@ -1,0 +1,97 @@
+<html>
+	<body style ="margin:25;padding:25" bgcolor = "PaleTurquoise">
+		<h1 align = "center" size = 7>
+			<b><u>Our Products</u></b> </h1>
+	<head>
+		<style>
+        p {text-indent: 40px;}
+		</style>
+	</head>
+		<font face = "Tahoma" color = "DarkGreen" size = 4>
+				<p align = "center">	Whether this is your first time hangliding or skydiving, or if you're a seasoned pro, 
+				here at Harry and Harriet's Hang-gliding Haven we have just the supplies you need to get up 
+				in the skies and fall with grace. Check out our deals below! </p>
+				</font>
+<br>
+<br>				
+	<h2> How to Become a Pro at Air Sports </h2>
+		<font size = 5>
+				<ol>
+					<li> Take our safety course </li>
+					<li> Try it out! Jump with one of our instructors</li>
+					<li> After the adrenaline wears off, buy your equiptment</li>
+					<li> Continue to fly with us until you are comfortable</li>
+					<li> <a href="https://www.youtube.com/watch?v=vU2JVHqq9p4">Learn about getting your license</a></li>
+				</ol>
+		</font>				
+<br>
+<br>
+	<head>
+		<font color = "black" size = 2>
+			<h2><u> Parachute </u></h2>
+		<img src = "Parachute.jpg" width = "300" height = "200">
+<br>
+	<font size = 4> 
+		<b><i> $3000 </i></b>
+				<p style ="margin-right:500"><i> 	The most essential piece of every hangliding or skydiving experience
+				is the safety. Return to the ground in style with our super safe, ultra reliable 
+				parachutes. You can also rent them, however, we know after the first jump you'll
+				be hooked. Pick one up before they're gone. 
+				</i></p>
+<br>
+<br>
+	<font size = 2> 
+		<h2><u> Harness </u></h2>
+		<img src = "Harness.jpg" width = "220" height = "250">
+<br>
+	<font size = 4> 
+		<b><i> $500 </i></b>
+				<p style ="margin-right:500"><i>	Stay comfortably strapped in with our personally fitted harnesses. No more 
+				uncomfortable straps digging into unwanted areas with our ultra plush foam
+				padding. The sturdiest harness you will ever experience.
+				</i></p>
+<br>
+<br>
+	<font size = 2> 
+		<h2><u> Helmet </u></h2>
+		<img src = "Helmet.jpg" width = "250" height = "250">
+<br>
+	<font size = 4> 
+		<b><i> $200 </i></b>
+			<p style ="margin-right:500"><i>	Protect your head and eyes with our personalizable helmets. Add a decal you like
+				or simply pick your favorite color. Any desing you chose you will be sure to have
+				built-in polarized UV protection. No matter if you're close to the sun or about to 
+				touch down, you can ensure that your most valuable organ is protected in every way. </i></p>
+<br>
+<br>
+	<font size = 2> 
+		<h2><u>Carabiners Pack of 10 </u></h2>
+			<img src = "Carabiners.jpg" width = "200" height = "300">
+<br>
+	<font size = 4> 
+		<b><i> $17 </i></b>
+				<p style ="margin-right:500"><i>	Make sure all of your gear is securly attached with our industrial strength carabiners. 
+				Play it safe, don't take risks, these are certified for up to 8,000 lbs of resistance.
+				</i></p>
+<br>
+<br>
+	<h2> What to have for checkout:</h2>
+		<font size = 5>
+				<ul>
+					<li> A valid credit card</li>
+					<li> Your desired mailing address</li>
+					<li> <a href="Size.jpg" download>
+						alt="Download the Size Chart Here">
+					</a></li>
+					<li> Coupon codes</li>
+				</ul>
+		</font>		
+	<a href = "mailto: lpavicic@purdue.edu">Contact Us With Questions!</a>
+<br>
+<br>
+	<p align = "center"> 
+	<script>
+         var date = document.lastModified;
+         document.write("Last Modified: "+date); </script> </p>
+</body>
+</html>
